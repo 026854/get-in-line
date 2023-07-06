@@ -9,5 +9,4 @@ class GetInLineApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
